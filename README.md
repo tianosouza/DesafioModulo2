@@ -7,4 +7,4 @@ externas na documentação.
 Os banners foram feitos no corel com imagens baixadas na galeria de pesquisa do google  
 assim como as logos, porém com modificações feita por mim.
 
-Com as pesquisas feita na documentação fiquei ancioso para as aulas de CSS.
+Com as pesquisas feita na documentação fiquei ansioso para as aulas de CSS.
